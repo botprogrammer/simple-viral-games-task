@@ -7,8 +7,8 @@ import Step2 from './Step2'
 import Step3 from './Step3'
 import Step4 from './Step4'
 
-import bgDesktop from '../components/svg/bg-sidebar-desktop.svg'
-import bgMobile from '../components/svg/bg-sidebar-mobile.svg'
+import bgDesktop from '/bg-sidebar-desktop.svg'
+import bgMobile from '/bg-sidebar-mobile.svg'
 
 const steps = ['YOUR INFO', 'SELECT PLAN', 'ADD-ONS', 'SUMMARY']
 
